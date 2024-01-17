@@ -67,6 +67,7 @@ export default function Home() {
 
         
       </div>
+      <div> <p> Made by Pratik Pawar</p></div>
     </main>
   )
 }
